@@ -1,5 +1,9 @@
 # AngularJS CrashCourse
 
+## Install angular
+
+`npm install -g @angular/cli`
+
 ## Create new project
 
 Run `ng new project-name` to create a new project
