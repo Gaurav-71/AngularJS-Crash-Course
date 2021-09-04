@@ -4,6 +4,14 @@
 
 Run `ng new project-name` to create a new project
 
+## Create new component
+
+Run `ng generate component components/componenet-name`
+
+## Create new server
+
+Run `ng generate service services/service-name`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
